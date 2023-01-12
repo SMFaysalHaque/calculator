@@ -28,6 +28,7 @@ body{
     margin: 0 auto;
     border: 1px solid black;
     border-radius: 5px;
+    background-color: rgba(54, 52, 52, 0.678);
 }
 /* calculator-body end */
 
@@ -35,10 +36,10 @@ body{
 .display-area{
     display: block;
     width: 90%;
-    height: 20%;
+    height: 15%;
     margin: 10px auto;
     border: 1px solid black;
     border-radius: 5px;
-
+    background-color: white;
 }
 /* display-area end */
