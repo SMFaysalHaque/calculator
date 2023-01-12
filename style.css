@@ -86,8 +86,8 @@ main{
 .calculator-button-area button:hover{
     /* background-color: bisque;
     box-shadow: 5px 5px lightblue; */
-    background-color: #f39e66c4;
-    box-shadow: 0px 15px 20px rgba(229, 150, 46, 0.342);
+    background-color: #f5a571c4;
+    box-shadow: 0px 15px 20px rgba(247, 176, 84, 0.342);
     color: #fff;
     transform: translateY(-2px);
     transition: all 0.3s ease 0s;
