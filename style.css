@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* body start */
+body{
+    background-color: #ffe0cc;
+}
+/* body end */
+
+/* headline start */
+.head-line{
+    display: flex;
+    justify-content: center;
+}
+.head-line h1{
+    font-family: 'Rubik Mono One', sans-serif;
+}
+/* headline end */
+
+/* calculator-body start */
+.calculator-body{
+    display: block;
+    width: 250px;
+    height: 300px;
+    margin: 0 auto;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+/* calculator-body end */
+
+/* display-area start */
+.display-area{
+    display: block;
+    width: 90%;
+    height: 20%;
+    margin: 10px auto;
+    border: 1px solid black;
+    border-radius: 5px;
+
+}
+/* display-area end */
