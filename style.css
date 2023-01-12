@@ -15,14 +15,6 @@ body{
 }
 /* body end */
 
-/* main start */
-main{
-    /* display: flex;
-    flex-direction: column;
-    align-items: center; */
-}
-/* main end */
-
 /* headline start */
 .head-line{
     display: flex;
